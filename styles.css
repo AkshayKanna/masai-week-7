@@ -1,0 +1,52 @@
+h3,h1
+{
+    font-family: 'Telex', sans-serif;
+}
+
+h2,p
+{
+    font-family: 'Montserrat', sans-serif;  
+}
+#header 
+{
+	/*background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);*/
+  	background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  	color:floralwhite;
+}
+
+#android
+{
+	background-image: linear-gradient(to right, #d4fc79 0%, #96e6a1 100%);
+	font-size: 18px;
+	font-family: 'Telex', sans-serif;
+}
+
+#fullstack
+{
+	background-image: linear-gradient(to right, #0250c5 0%, #d43f8d 100%);
+	font-size: 18px;
+	font-family: 'Telex', sans-serif;
+}
+
+#course_header
+{
+	background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+	color: floralwhite;
+}
+
+.fonts
+{
+	font-size: 25px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#mentor_header
+{
+	background-image: linear-gradient(to left, #30cfd0 0%, #330867 100%);
+	color: floralwhite;
+}
+
+.working
+{
+	font-size: 70px;
+}
